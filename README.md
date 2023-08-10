@@ -5,14 +5,14 @@
     <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="250"/>
 </div>
 
-
 - 🌱 I’m currently learning **Deep Learning, Bayesian Statistics and BigData**
 
-- 📫 How to reach me **bvarsha0412@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach Out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varsha-b-b982a9200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha-b-b982a9200" height="30" width="40" /></a>
+    <a href="mailto:bvarsha0412@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
